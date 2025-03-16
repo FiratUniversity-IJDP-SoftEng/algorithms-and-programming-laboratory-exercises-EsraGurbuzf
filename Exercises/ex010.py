@@ -1,5 +1,5 @@
 # Your Student ID: 230543001
-# Your Name and Surname: Esra Gürbüz 
+# Your Name and Surname: Esra Gürbüz  
 
 number1 = int(input("Enter a value: "))
 number2 = int(input("Enter a value again : "))
